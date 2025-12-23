@@ -11,7 +11,7 @@ Please also note that we have page limits for the main text of the submitted pap
 - **8 pages for full submissions**, and
 - **4 pages for the tiny paper submissions**.
 
-If you have any questions, please feel free to reach out to [genai-in-genomics@googlegroups.com](mailto:genai-in-genomics@googlegroups.com).
+If you have any questions, please feel free to reach out to [genai-in-genomics@googlegroups.com](mailto:genai-in-genomics@googlegroups.com).  
 For more information, visit our website at: [genai-in-genomics.github.io](https://genai-in-genomics.github.io)
 
 We look forward to your submissions!  
