@@ -15,4 +15,4 @@ If you have any questions, please feel free to reach out to [genai-in-genomics@g
 For more information, visit our website at: [genai-in-genomics.github.io](https://genai-in-genomics.github.io)
 
 We look forward to your submissions!  
-- Gen² Organizing Committee
+-Gen² Organizing Committee
